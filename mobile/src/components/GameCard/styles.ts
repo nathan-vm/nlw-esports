@@ -5,7 +5,7 @@ export const styles = StyleSheet.create({
   container: {
     marginRight: 24,
   },
-  cover: {
+  banner: {
     width: 240,
     height: 320,
     justifyContent: 'flex-end',
@@ -19,7 +19,7 @@ export const styles = StyleSheet.create({
     padding: 16,
     justifyContent: 'flex-end'
   },
-  name: {
+  title: {
     color: THEME.COLORS.TEXT,
     fontSize: THEME.FONT_SIZE.MD,
     fontFamily: THEME.FONT_FAMILY.BOLD,
